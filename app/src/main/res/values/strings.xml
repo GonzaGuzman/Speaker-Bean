@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Speaker Bean</string>
+    <string name="tts_ready">Listo</string>
+    <string name="tts_no_ready">No disponible :(</string>
+    <string name="hint_message">Ingrese el texto</string>
+    <string name="btn_play">Play</string>
+    <string name="tts_funny_empty_message">Estas bromeando?, Vamos!! Escribe algo que quieras reproducir!!</string>
+</resources>
